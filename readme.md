@@ -1,2 +1,3 @@
-# Перевод двоичного кода в символы
-    Запрос к пользователю 
+
+# Translating binary code into characters
+ User request
