@@ -1,0 +1,3 @@
+# Notes from Chernyshov Sergey, 2411-0101.2 group student
+This project was cloned by me from Ganiuk Andrey repository.
+I'm adding my own improvements.
